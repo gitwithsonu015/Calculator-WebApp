@@ -30,3 +30,6 @@ function calculate() {
 function toggleDark() {
   document.body.classList.toggle("dark");
 }
+function toggleLight() {
+  document.body.classList.toggle("light");
+}
